@@ -57,7 +57,7 @@
       <a
         id="cvLink"
         class="actionElement pixelSimpleBorder"
-        href="{base}/cv/{cvLang}.pdf"
+        href=""
         target="_blank"
         title={$_("extra_data.cv_title")}
       >
