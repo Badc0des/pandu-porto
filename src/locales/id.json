@@ -1,0 +1,45 @@
+{
+  "navigation": {
+    "home": "Home",
+    "projects": "Portofolio",
+    "contact": "Contact me",
+    "blog": "Blog",
+    "toggle_dark_mode": "Mode Gelap",
+    "discord_user": "Discord user",
+    "github_profile": "GitHub profile",
+    "linkedin_profile": "LinkedIn profile"
+  },
+  "head": {
+    "description": "My portfolio. It includes my information, the projects I have made and my contact info.",
+    "home_title": "Pandu's portfolio",
+    "projects_title": "Portfolio - Project",
+    "contact_title": "Portfolio - Contact"
+  },
+  "extra_data": {
+    "title": "Extra data",
+    "age": "Umur",
+    "birthday": "Tanggal Lahir",
+    "birthday_value": "Juli, 11th",
+    "country": "Negara",
+    "gender": "Jenis kelamin",
+    "gender_value": "Laki laki",
+    "cv_open": "Buka",
+    "language": "Bahasa"
+  },
+  "home": {
+    "info_1": "Hallo Baraya,I'm pandudotid Tukang bakar duit & Work On Node Validator",
+    "info_2": "Penggemar pemrograman tingkat rendah.",
+    "info_3": "Aku hanya lulusan SMK",
+    "about_title": "Tentang Saya",
+    "about_1": "Saya Pandu Satria Permana dan saya hanya seorang developer biasa (tidak ada yang istimewa). Saya hanya seorang Trader dan Airdrop Hunter",
+    "about_2": "Minat saya sebenarnya adalah pemrograman, tapi itu hanya untuk bersenang-senang karena saya suka melihat kode berbagai warna di terminal.",
+    "about_3": "Saya hanyalah orang biasa yang ingin menjelajah dan menghasilkan uang di internet"
+  },
+  "projects": {
+    "clear": "Hapus"
+  },
+  "contact": {
+    "title": "Contact me",
+    "desc_1": "Jika Anda ingin mempekerjakan saya, bertanya tentang proyek saya atau apa pun, Anda dapat menghubungi saya melalui <a href=\"mailto:jezer.mejia@icloud.com\">Email</a> atau Discord."
+  }
+}

@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Creditcoin",
+    "description": {
+      "en": "Working time: 30 days, Reward : 2322 CTC",
+      "id": "Waktu kerja: 30 hari, Hadiah : 2322 CTC"
+    },
+    "link": "https://github.com/gluwa/creditcoin",
+    "categories": ["Node"],
+    "color": "blue",
+    "image": "/thumbnails/web-greeter.avif"
+  },
+  {
+    "name": "Over Protocol",
+    "description": {
+      "en": "Working time: 10 days, Status: Ongoing",
+      "id": "Waktu Kerja: 10 hari, Status: Berjalan"
+    },
+    "link": "https://over.network/overnode",
+    "categories": ["Node", "Testnet"],
+    "color": "red",
+    "image": "/thumbnails/nody-greeter.avif"
+  },
+  {
+    "name": "zkSync",
+    "description": {
+      "en": "INTERACTIONS: 700, VOLUME: $30000, FEE SPENT: $500, ACTIVITY: 10 MONTH",
+      "id": "INTERAKSI: 700, VOLUME: $30000, BIAYA YANG DIBELI: $500, AKTIVITAS: 10 MONTH"
+    },
+    "link": "https://zksync.io/",
+    "categories": ["Retro"],
+    "color": "blue",
+    "image": "/thumbnails/sea-greeter.avif"
+  },
+  {
+    "name": "Omni Network",
+    "description": {
+      "en": "Working time: 50 days, Status: Ongoing",
+      "id": "Waktu Kerja: 50 hari, Status: Berjalan"
+    },
+    "link": "https://omni.network/",
+    "categories": ["Testnet"],
+    "color": "blue",
+    "image": "/thumbnails/web-greeter-page.avif"
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "navigation": {
+    "home": "Home",
+    "projects": "Portofolio",
+    "contact": "Contact me",
+    "blog": "Blog",
+    "toggle_dark_mode": "Toggle dark mode",
+    "discord_user": "Discord user",
+    "github_profile": "GitHub profile",
+    "linkedin_profile": "LinkedIn profile"
+  },
+  "head": {
+    "description": "My portfolio. It includes my information, the projects I have made and my contact info.",
+    "home_title": "Pandu's portfolio",
+    "projects_title": "Portfolio - Projects",
+    "contact_title": "Portfolio - Contact"
+  },
+  "extra_data": {
+    "title": "Extra data",
+    "age": "Age",
+    "birthday": "Birthday",
+    "birthday_value": "July, 11th",
+    "country": "Country",
+    "gender": "Gender",
+    "gender_value": "Male",
+    "cv_open": "Open",
+    "language": "Language"
+  },
+  "home": {
+    "info_1": "Hallo Baraya,I'm pandudotid Tukang bakar duit & Work On Node Validator",
+    "info_2": "Low level programming enthusiast.",
+    "info_3": "I only graduated from vocational school",
+    "about_title": "About me",
+    "about_1": "I'm Pandu Satria Permana and I'm just an ordinary developer (nothing special). I'm just a Trader and Airdrop Hunter",
+    "about_2": "My real interest is programming, but it has to be just for fun because I like seeing codes of various colors on the terminal.",
+    "about_3": "I'm just an ordinary person who wants to explore and make money on the internet"
+  },
+  "projects": {
+    "clear": "Clear"
+  },
+  "contact": {
+    "title": "Contact me",
+    "desc_1": "If you want to hire me, ask me about my projects or anything else, you can contact me through <a href=\"mailto:pandudotid1337@gmail.com\">Email</a> or Discord."
+  }
+}
